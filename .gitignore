@@ -1,0 +1,6 @@
+.env
+node_modules
+wallet.dat*
+db.json
+certs/*
+nfts/*

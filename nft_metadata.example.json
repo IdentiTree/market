@@ -1,0 +1,18 @@
+{
+  "title": "Asset Metadata",
+  "type": "object",
+  "properties": {
+    "name": {
+      "type": "string",
+      "description": "MyFirstNFT"
+    },
+    "description": {
+      "type": "string",
+      "description": "My very first NFT that has this metadata attached to it."
+    },
+    "image": {
+      "type": "string",
+      "description": "<uri to resource holding the content of my first NFT>"
+    }
+  }
+}
